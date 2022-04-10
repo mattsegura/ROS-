@@ -42,7 +42,7 @@ rosrun robotic_car drive_node.py
 2. in the **terminal** run... ```rosrun robotic_car command_node.py```
   - This  take keyboard input to communicate with the navigation aka pwm signals by publishing 
 
-###TESTING THE ROBOTIC CAR NODES
+### TESTING THE ROBOTIC CAR NODES
 ```
 Bash commands to test the system locally
 
