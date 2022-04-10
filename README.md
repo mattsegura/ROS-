@@ -57,3 +57,10 @@ cd ~/catkin_ws/robotic_car/src/scripts
 chmod +x command_node.py
 chmod +x drive_node.py
 ```
+
+
+# Explanations + More
+
+[Document and Links](https://docs.google.com/document/d/18s3aZUFS1rSF1iu_XdOL2BxaFJaIvRNag3f0DGdWymE/edit?usp=sharing)
+
+Up above is documentation/explanations by me (Cat) on how we could go about this!
