@@ -39,7 +39,7 @@ rosrun robotic_car drive_node.py
 
 1. in the **terminal** run... ```roscore```
   - This will start some basic nodes required for ROS to work
-2. in the **terminal** run... ```rosrun first_example command_node.py```
+2. in the **terminal** run... ```rosrun robotic_car command_node.py```
   - This  take keyboard input to communicate with the navigation aka pwm signals by publishing 
 
 ###TESTING THE ROBOTIC CAR NODES
