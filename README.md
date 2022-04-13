@@ -64,3 +64,7 @@ chmod +x drive_node.py
 [Document and Links](https://docs.google.com/document/d/18s3aZUFS1rSF1iu_XdOL2BxaFJaIvRNag3f0DGdWymE/edit?usp=sharing)
 
 Up above is documentation/explanations by me (Cat) on how we could go about this!
+
+# M. S: Documentation + More 
+
+[Link](https://docs.google.com/document/d/1wFLX0QiOwCm9FljDG9AHuZatXuKojD4X28V5rhxXCZM/edit#)
